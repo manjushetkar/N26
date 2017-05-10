@@ -1,0 +1,8 @@
+target/
+*.iml
+.idea/
+logs
+out
+node_modules
+*.pyc
+*.log
